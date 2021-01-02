@@ -45,13 +45,15 @@
 
 <!-- YOUTUBE:START --> 
 
-- ["Learn | HTML, CSS, JavaScript](https://www.youtube.com/)
+- My Youtube vidoes will be added here:  
+(https://www.youtube.com/)
 
 <!-- YOUTUBE:END -->
 
 ---
 
 ### 📕 Latest Blog Posts
+- Some post will be added soon :)
 
 ---
 
