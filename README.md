@@ -1,8 +1,7 @@
 ### Hi there, I'm Sohel [SohelSamim][website] 👋
 
-[![Website]()](https://linktr.ee/SohelSamimi)
-
-## I'm a University Student and a Full Stack Developer, who loves coding!
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://linktr.ee/SohelSamimi)
+## I'm A University Student, A Full Stack Developer, & A CODE Lover!
 
 - 🌱 I’m currently learning React, Javascript, Nodejs, and Firebase.
 - 👯 I’m looking to collaborate with other passionate developers.
