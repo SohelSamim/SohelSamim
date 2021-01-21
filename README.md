@@ -87,6 +87,7 @@ src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0
 
 ---
 
-[website]: https://linktr.ee/SohelSamimi
+
 [instagram]: https://www.instagram.com/soheile22/
 [linkedin]: https://www.linkedin.com/in/sohel-s-b0077b87/
+[website]: https://linktr.ee/SohelSamimi
