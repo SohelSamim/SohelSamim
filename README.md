@@ -1,6 +1,6 @@
 ### Hi there, I'm Sohel [SohelSamim][website] 👋
 
-[![Website](https://img.shields.io/website?label=My/projects&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://linktr.ee/SohelSamimi)
+[![Website](https://img.shields.io/website?label=Website&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://heuristic-dubinsky-d9a273.netlify.app/)
 ## I'm a  Full-Stack Developer who loves to Code!
 
 - 🌱 I’m currently learning React, Javascript, Nodejs, and Firebase.
