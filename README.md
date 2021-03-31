@@ -75,7 +75,7 @@ src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0
 
 <!-- YOUTUBE:START --> 
 
-- My Youtube vidoes will be added here:  
+- I have no youtube video yet  
 (https://www.youtube.com/)
 
 <!-- YOUTUBE:END -->
