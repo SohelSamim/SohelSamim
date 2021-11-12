@@ -1,6 +1,6 @@
 ### Hi there, I'm Sohel [SohelSamim][website] 👋
 
-[![Website](https://img.shields.io/website?label=Website&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](soheil.tech)
+[![Website](https://img.shields.io/website?label=Website&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://soheil.tech/)
 ## I'm a  Junior Full-Stack Developer who is passionate about coding!
 
 - 🌱 I’m currently learning Redux, Express,Nodejs, and GraphQL.
