@@ -1,7 +1,7 @@
 ### Hi there, I'm Sohel [SohelSamim][website] 👋
 
-[![Website](https://img.shields.io/website?label=Website&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://heuristic-dubinsky-d9a273.netlify.app/)
-## I'm a  Full-Stack Developer who loves to Code!
+[![Website](https://img.shields.io/website?label=Website&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](soheil.tech)
+## I'm a  Junior Full-Stack Developer who is passionate about coding!
 
 - 🌱 I’m currently learning Redux, Express,Nodejs, and GraphQL.
 - 👯 I’m looking to collaborate with other passionate developers.
