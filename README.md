@@ -3,9 +3,9 @@
 [![Website](https://img.shields.io/website?label=Website&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://heuristic-dubinsky-d9a273.netlify.app/)
 ## I'm a  Full-Stack Developer who loves to Code!
 
-- 🌱 I’m currently learning React, Javascript, Nodejs, and Firebase.
+- 🌱 I’m currently learning Redux, Express,Nodejs, and GraphQL.
 - 👯 I’m looking to collaborate with other passionate developers.
-- 🥅 2021 Goals: Master React, Complete MERN Stack, Contribute to Open Source Projects.
+- 🥅 2021 Goals: Master Redux, TypeScript, & Contribute to Open Source Projects.
 - ⚡ Fun fact: I love to do FreeRun, travel to new cities and try new dishes.
 
 🎧
@@ -46,9 +46,6 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 <img align="left" alt="Node.js" width="26px" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-
-<img align="left" alt="c#" width="26px" 
-src="https://www.clipartmax.com/png/middle/296-2963807_string-helper-class-c-logo.png" />
 
 <img align="left" alt="SQL" width="26px" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
