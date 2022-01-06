@@ -3,9 +3,9 @@
 [![Website](https://img.shields.io/website?label=Website&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://soheil.tech/)
 ## I'm a  Junior Full-Stack Developer who is passionate about coding!
 
-- 🌱 I’m currently learning Redux, Express,Nodejs, and GraphQL.
+- 🌱 I’m currently learning React, Redux, Express and Nodejs.
 - 👯 I’m looking to collaborate with other passionate developers.
-- 🥅 2021 Goals: Master Redux, TypeScript, & Contribute to Open Source Projects.
+- 🥅 2022 Goals: Master JavaScript, TypeScript, React & Contribute to Open Source Projects.
 - ⚡ Fun fact: I love to do FreeRun, travel to new cities and try new dishes.
 
 🎧
